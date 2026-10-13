@@ -1,0 +1,1 @@
+Project P5; publication snapshot v0.7.0-rc1-code-preview; prepared 2026-10-13 JST. This snapshot starts a new Git history from audited allowlisted files. Original local projects are unchanged. Read README.md for actual validation and exclusions.

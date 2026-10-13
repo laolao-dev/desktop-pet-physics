@@ -1,0 +1,56 @@
+{
+  "project": "P5",
+  "version": "v0.7.0-rc1-code-preview",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 94,
+      "sha256": "003ab602f40762a9d3e02df9738220fc0a907e39b3f061301c1b2c4177d0e2de"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1092,
+      "sha256": "1f3247c370905338b4a9236cd0f27d12daf89271a22132510e6ab6a1f4899c59"
+    },
+    {
+      "path": "PUBLICATION_SCOPE.md",
+      "bytes": 246,
+      "sha256": "2febea9d91ebdc2732753917d34bf0ae430d12b3178da27a101b1b61418213ba"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1294,
+      "sha256": "09f8b585ea0b30074f0d5b781826119142ae18b130af6ea929d5303f2e61f26b"
+    },
+    {
+      "path": "THIRD_PARTY.md",
+      "bytes": 335,
+      "sha256": "e77645c2fd3fae08fde4f422fa8f8ed70f260c066019edffc06a09ad67cec852"
+    },
+    {
+      "path": "VALIDATION.md",
+      "bytes": 404,
+      "sha256": "0e0c308f60099ce48dfb5bde419eef7e8f4fdd57a544abbe832cebd2af411e0a"
+    },
+    {
+      "path": "example.mjs",
+      "bytes": 218,
+      "sha256": "15aeb0da4f303b584a58a521938db214d3d4e2b7e07c7495909273f0e686067b"
+    },
+    {
+      "path": "package.json",
+      "bytes": 230,
+      "sha256": "4fb5c9d0b42a760c760a2028888d609ce0efa7a1ef1613490df9c826b867b4db"
+    },
+    {
+      "path": "physics.ts",
+      "bytes": 966,
+      "sha256": "a129f64eb71e78275d25be29cf31562efe5cf641948168dc5e84ffb28e682ac2"
+    },
+    {
+      "path": "test.mjs",
+      "bytes": 529,
+      "sha256": "22b2d269e52e224cc1403aa418991261ffbaefeb81dc48fdb48909076c7a2f9e"
+    }
+  ]
+}

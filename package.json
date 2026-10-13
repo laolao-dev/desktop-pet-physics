@@ -1,0 +1,13 @@
+{
+  "name": "desktop-pet-physics",
+  "version": "0.7.0-rc1",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "test": "node --test test.mjs",
+    "example": "node example.mjs"
+  }
+}

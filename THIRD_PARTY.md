@@ -1,0 +1,1 @@
+This isolated code preview extracts the geometry and flight component from the local Desktop-pet 0.7.0-rc1 application. The original Desktop-pet MIT notice is preserved. No character artwork, trademarks, voice/model files, Electron binaries, or animation frames are redistributed. This preview is not the complete desktop application.
