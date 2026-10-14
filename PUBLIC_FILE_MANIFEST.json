@@ -1,6 +1,13 @@
 {
   "project": "P5",
-  "version": "v0.7.0-rc1-code-preview",
+  "repository": "https://github.com/laolao-dev/desktop-pet-physics",
+  "version": "v0.7.0",
+  "release_type": "FINAL ARCHIVE RELEASE",
+  "source_public_commit": "8ce83b7915e757a700c30ba5c41bdfc91be545cb",
+  "excludes": [
+    "PUBLIC_FILE_MANIFEST.json",
+    "SHA256SUMS"
+  ],
   "files": [
     {
       "path": ".gitignore",
@@ -8,19 +15,34 @@
       "sha256": "003ab602f40762a9d3e02df9738220fc0a907e39b3f061301c1b2c4177d0e2de"
     },
     {
+      "path": "CHANGELOG.md",
+      "bytes": 786,
+      "sha256": "165c2891a975938187c06e2835fb93a17f0f2f573bcaa614ca269c90ab937532"
+    },
+    {
       "path": "LICENSE",
-      "bytes": 1092,
-      "sha256": "1f3247c370905338b4a9236cd0f27d12daf89271a22132510e6ab6a1f4899c59"
+      "bytes": 1071,
+      "sha256": "d61436c017653866fb1945424e0ebfc9cb3ab1d5b2957295499bb7c9a0a21647"
     },
     {
       "path": "PUBLICATION_SCOPE.md",
-      "bytes": 246,
-      "sha256": "2febea9d91ebdc2732753917d34bf0ae430d12b3178da27a101b1b61418213ba"
+      "bytes": 872,
+      "sha256": "94fe4ebc88781027d939504fd7755fd0c81a062c6af15b181e5c8f48e7ab1739"
     },
     {
       "path": "README.md",
-      "bytes": 1294,
-      "sha256": "09f8b585ea0b30074f0d5b781826119142ae18b130af6ea929d5303f2e61f26b"
+      "bytes": 2021,
+      "sha256": "416c3f1bd9d87c8213d8ff3fb5ad5fea4d17852805d9d4b2b167901994f870c6"
+    },
+    {
+      "path": "RELEASE_ASSETS.md",
+      "bytes": 1176,
+      "sha256": "29956e69b1e88694370ba95e1cf0d2cd2479e40afe7853a42f01ae76c76622db"
+    },
+    {
+      "path": "RELEASE_NOTES.md",
+      "bytes": 1231,
+      "sha256": "adc134edd34da64b00eb4c6e08d7cbf9832b8afd384f5c8fb1d7b4810942e06a"
     },
     {
       "path": "THIRD_PARTY.md",
@@ -29,8 +51,8 @@
     },
     {
       "path": "VALIDATION.md",
-      "bytes": 404,
-      "sha256": "0e0c308f60099ce48dfb5bde419eef7e8f4fdd57a544abbe832cebd2af411e0a"
+      "bytes": 1600,
+      "sha256": "1772a90c1ce0fd8f78a6aae53fd8fde7d661e85f2006716fb467ed2c88c094d5"
     },
     {
       "path": "example.mjs",
@@ -39,8 +61,8 @@
     },
     {
       "path": "package.json",
-      "bytes": 230,
-      "sha256": "4fb5c9d0b42a760c760a2028888d609ce0efa7a1ef1613490df9c826b867b4db"
+      "bytes": 226,
+      "sha256": "1ed9918a405e91fc64f1cf40b14b9c67d6a0d03b5ef36e7db0e76fdec42f512b"
     },
     {
       "path": "physics.ts",

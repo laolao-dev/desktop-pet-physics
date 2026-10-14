@@ -1,4 +1,12 @@
-# Desktop pet physics — RC1 code preview
+# Desktop pet physics — v0.7.0 geometry and flight component
+
+## FINAL ARCHIVE RELEASE — v0.7.0
+
+This is the final archive of the currently completed public scope, dated 2026-10-14. It does not imply future maintenance, production maturity, commercial validation, or renewed development.
+
+Only generic geometry/flight code, example, tests and documentation are released. The complete desktop application, four AI brand characters, animation assets, controller data and private configuration are excluded. GUI, animation quality and user acceptance are NOT_RUN. The installed RC1 application is outside this release.
+
+See CHANGELOG.md, RELEASE_NOTES.md, RELEASE_ASSETS.md, PUBLIC_FILE_MANIFEST.json and SHA256SUMS for release scope, validation and integrity records.
 
 A small geometry and flight component extracted from the local 0.7.0-rc1 desktop-pet application. It clamps a 220 × 240 window to a desktop work area and simulates gravity, edge collisions, damping and settling.
 
